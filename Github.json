@@ -1,7 +1,6 @@
 1.Logged into K8s and lates yokogawa build 4.1.63.
 2.Tested and completed all the assigned modules below;
          -Dasboard linking
-        -Custom connectors combination
         -publish module.
         -publish module (Sqllite) 
 3.Updated all theier status
